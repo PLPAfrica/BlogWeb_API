@@ -1,0 +1,19 @@
+{
+  "name": "webdev-api",
+  "version": "1.0.0",
+  "description": "web dev API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PLPAfrica/BlogWeb_API.git"
+  },
+  "author": "evans mutuku",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PLPAfrica/BlogWeb_API/issues"
+  },
+  "homepage": "https://github.com/PLPAfrica/BlogWeb_API#readme"
+}
