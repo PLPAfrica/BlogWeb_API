@@ -413,6 +413,11 @@ minimatch@^3.1.2:
   dependencies:
     brace-expansion "^1.1.7"
 
+mongoos@^0.0.1-security:
+  version "0.0.1-security"
+  resolved "https://registry.yarnpkg.com/mongoos/-/mongoos-0.0.1-security.tgz#be1f74c8d973afe093b8005f8e07361ddeaddd59"
+  integrity sha512-bRrqG68DaRaGYsf9wLDqwrzoPfckn9012r6QFTaadOGz/5fmI5lmrnJt4B1NhhGbk8ZXvBEtLNFscM4fo1TAFA==
+
 ms@2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/ms/-/ms-2.0.0.tgz#5608aeadfc00be6c2901df5f9861788de0d597c8"
