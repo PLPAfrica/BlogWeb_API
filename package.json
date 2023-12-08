@@ -4,7 +4,7 @@
   "description": "web dev API",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon app.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/PLPAfrica/BlogWeb_API/issues"
   },
-  "homepage": "https://github.com/PLPAfrica/BlogWeb_API#readme"
+  "homepage": "https://github.com/PLPAfrica/BlogWeb_API#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.2"
+  }
 }
